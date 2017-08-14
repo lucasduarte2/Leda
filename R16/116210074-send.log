@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-04T16:15:26.047-0300</date>
+  <logger>LUCAS VENANCIO DUARTE</logger>
+  <level>FINE</level>
+  <message>File 116210074-LUCAS VENANCIO DUARTE.zip was received. It was sent by LUCAS VENANCIO DUARTE from IP 192.168.1.5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-04T20:43:16.665-0300</date>
+  <logger>LUCAS VENANCIO DUARTE</logger>
+  <level>FINE</level>
+  <message>File 116210074-LUCAS VENANCIO DUARTE.zip was received. It was sent by LUCAS VENANCIO DUARTE from IP 192.168.1.5</message>
+</record>
