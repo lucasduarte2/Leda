@@ -56,7 +56,6 @@ public class QueueImpl<T> implements Queue<T> {
 
 		T tailValor = array[0];
 		this.shiftLeft();
-		this.tail--;
 		return tailValor;
 	}
 
